@@ -9,23 +9,7 @@ I challenge anyone to try and make sense of it.
 - Does it make any sense
 - Can you find any errors or unlikely outliers in the data?
 
-<style>
-    .embed-container {
-        position: relative; padding-bottom: 120%; height: 0; overflow: hidden;
-    }
-    .embed-container iframe,
-    .embed-container object,
-    .embed-container embed {
-        position: absolute; top: 0; left: 0; width: 100%; height: 100%;
-    }
-</style>
-<div class='embed-container'>
-<iframe src="v.shuf.txt"
-    allowTransparency="true"
-    style="width:400px; height:400px; background-color: #dddddd; font-weight: bold;">
-</iframe>
-</div>
-
+<a href="v.shuf.txt">Click here to browse the data-set</a>
 
 Looking at the data directly won't get you far.
 
