@@ -1,7 +1,7 @@
 #
 # Original data, stuff we don't want to overwarite by accident
 #
-PRECIOUS := v.shuf.txt v.png v.outliers.png index.html
+PRECIOUS := v.shuf.txt v.png v.outliers.png README.md
 
 all: protect clean
 

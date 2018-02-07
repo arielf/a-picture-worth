@@ -2,6 +2,33 @@
 
 #### Here's a numeric data-set in 3 dimensions.
 
+The first 20 lines in the data are:
+
+```
+    84      9       101
+    87      25      100
+    40      48      138
+    44      53      117
+    45      52      118
+    78      9       105
+    31      5       122
+    10      9       109
+    56      28      151
+    53      41      138
+    60      25      150
+    48      25      170
+    64      3       116
+    47      32      159
+    33      33      158
+    4       33      122
+    27      11      149
+    72      54      97
+    78      14      106
+    76      56      96
+```
+
+<a href="v.shuf.txt">Click here to browse the <b>full</b> data-set</a>
+
 I challenge anyone to try and make sense of it.
 
 - What is this data about?
@@ -9,7 +36,6 @@ I challenge anyone to try and make sense of it.
 - Does it make any sense
 - Can you find any errors or unlikely outliers in the data?
 
-<a href="v.shuf.txt">Click here to browse the data-set</a>
 
 Looking at the data directly won't get you far.
 
