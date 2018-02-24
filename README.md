@@ -91,7 +91,7 @@ Since this data-set has 3 numeric columns, it would be natural to map each colum
 
 \[Credit: Ross Ihaka\]
 
-To generate the chart from [the data](v.shuf.csv) you may use [the `xyz` program](https://raw.githubusercontent.com/arielf/scripts/master/xyz) from [my scripts repository](https://github.com/arielf/scripts/)
+To generate the chart from [the data](v.shuf.txt) you may use [the `xyz` program](https://raw.githubusercontent.com/arielf/scripts/master/xyz) from [my scripts repository](https://github.com/arielf/scripts/)
 
 With the data in one picture, it becomes immediately obvious what the data is about.  It is a topographical (from above) view of an oval shaped volcano, with uneven crater wall-heights. The highest point is on the left side of the crater. The volcano has 3 ridges sloping down on the lower-end side, the crater is on the left side, a small local peak (in yellow) can be seen to the right of the crater... etc.
 
