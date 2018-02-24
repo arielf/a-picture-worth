@@ -1,5 +1,5 @@
 #
-# Original data, stuff we don't want to overwarite by accident
+# Original data, stuff we don't want to overwrite by accident
 #
 PRECIOUS := v.shuf.txt v.png v.outliers.png README.md
 
