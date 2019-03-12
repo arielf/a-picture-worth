@@ -93,9 +93,17 @@ Since this data-set has 3 numeric columns, it would be natural to map each colum
 
 To generate the chart from [the data](v.shuf.txt) you may use [the `xyz` program](https://raw.githubusercontent.com/arielf/scripts/master/xyz) from [my scripts repository](https://github.com/arielf/scripts/)
 
-With the data in one picture, it becomes immediately obvious what the data is about.  It is a topographical (from above) view of an oval shaped volcano, with uneven crater wall-heights. The highest point is on the left side of the crater. The volcano has 3 ridges sloping down on the lower-end side, the crater is on the left side, a small local peak (in yellow) can be seen to the right of the crater... etc.
+With the data in one picture, it becomes *immediately obvious* what the data is about.  It is a topographical (from above) view of an *oval shaped volcano*.
 
-We now see so many details, and can go on describing them.
+Now that you have a picture, you can say so much more about the data:
+
+* The volcano has uneven crater wall-heights.
+* The highest point is on the left side of the crater.
+* There are 3 ridges sloping down on the lower-end side
+* The crater is on the left side
+* A small local peak (in yellow) can be seen to the right of the crater... etc.
+
+We now see so many details, and can go on describing them in words.
 
 We can even memorize the picture in our minds and reproduce it pretty closely from memory later.
 
@@ -105,7 +113,11 @@ We can even memorize the picture in our minds and reproduce it pretty closely fr
 
 Let's continue with another, related, exercise.
 
-Change the z-value (3rd column) of just 5 (out of over 5,000) points to some arbitrary value taken from somewhere else in the data-set.  It would be extremely hard to notice this small change by looking at the numbers directly.  But in the picture, our small messing-up with the data stands-out immediately.
+Change the z-value (3rd column) of just 5 (out of over 5,000) points to some arbitrary value taken from somewhere else in the data-set.
+
+It would be extremely hard to notice this small change by looking at the numbers directly.
+
+But in the picture, the small messing-up with the data *stands-out immediately*.
 
 -----
 
@@ -164,13 +176,15 @@ Change the z-value (3rd column) of just 5 (out of over 5,000) points to some arb
 -----
 
 The bad data shows as a vertical blue line where it isn't supposed to be:
- in the middle of the smooth green area on the lower right-hand slope of the volcano:
+ in the middle of the smooth green area, on the lower right-hand slope of the volcano:
 
 <img src="v.outliers.png" width="640" height="480">
 
 -----
 
-The picture allows us, not just to grasp the whole data set in the blink of an eye, but also to notice a tiny case of tampering. The importance of visualization in making sense of data cannot be overstated.
+The picture allows us, not just to *grasp the whole data set in the blink of an eye*, but also to *notice a tiny case of tampering*.
+
+The importance of visualization in making sense of data cannot be overstated.
 
 Billions of years of evolution have made us very good in making sense of pictures.  In contrast, we have spent just a few thousands years (human history), making sense of writing, numbers, and data. 
 
