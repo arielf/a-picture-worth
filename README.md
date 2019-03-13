@@ -93,7 +93,10 @@ Since this data-set has 3 numeric columns, it would be natural to map each colum
 
 To generate the chart from [the data](v.shuf.txt) you may use [the `xyz` program](https://raw.githubusercontent.com/arielf/scripts/master/xyz) from [my scripts repository](https://github.com/arielf/scripts/)
 
-With the data in one picture, it becomes *immediately obvious* what the data is about.  It is a topographical (from above) view of an *oval shaped volcano*.
+With the data in one picture, it becomes *immediately obvious*
+what the data is about.
+
+## It is a top (topographical) view of an *oval shaped volcano*
 
 Now that you have a picture, you can say so much more about the data:
 
@@ -105,7 +108,8 @@ Now that you have a picture, you can say so much more about the data:
 
 We now see so many details, and can go on describing them in words.
 
-We can even memorize the picture in our minds and reproduce it pretty closely from memory later.
+We can even memorize the picture in our minds and reproduce it
+pretty closely from memory later.
 
 
 
