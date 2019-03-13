@@ -96,9 +96,9 @@ To generate the chart from [the data](v.shuf.txt) you may use [the `xyz` program
 With the data in one picture, it becomes *immediately obvious*
 what the data is about.
 
-## It is a top (topographical) view of an *oval shaped volcano*
+#### It is a top (topographical) view of an *oval shaped volcano*
 
-Now that you have a picture, you can say so much more about the data:
+Now that wehave a picture, we can say much more about the data:
 
 * The volcano has uneven crater wall-heights.
 * The highest point is on the left side of the crater.
@@ -106,7 +106,7 @@ Now that you have a picture, you can say so much more about the data:
 * The crater is on the left side
 * A small local peak (in yellow) can be seen to the right of the crater... etc.
 
-We now see so many details, and can go on describing them in words.
+We see so many details, and can go on and on describing them in words.
 
 We can even memorize the picture in our minds and reproduce it
 pretty closely from memory later.
