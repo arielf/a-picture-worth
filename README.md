@@ -33,7 +33,7 @@ I challenge anyone to try and make sense of it.
 
 - What is this data about?
 - Can you detect any patterns?
-- Does it make any sense
+- Does it make any sense?
 - Can you find any errors or unlikely outliers in the data?
 
 
@@ -87,7 +87,7 @@ Since this data-set has 3 numeric columns, it would be natural to map each colum
 
 <img src="v.png" width="640" height="480">
 
-*Maunga Whau (Mt Eden) is one of about 50 volcanos in the Auckland, New Zealand, volcanic field. This data set gives topographic information for Maunga Whau on a 10m by 10m grid.*
+_Maunga Whau (Mt Eden) is one of about 50 volcanos in the Auckland, New Zealand, volcanic field. This data set gives topographic information for Maunga Whau on a 10m by 10m grid._
 
 \[Credit: Ross Ihaka\]
 
@@ -102,7 +102,7 @@ Now that we have a picture, we can say much more about the data:
 
 * The volcano has uneven crater wall-heights.
 * The highest point is on the left side of the crater.
-* There are 3 ridges sloping down on the lower-end side
+* There are 3 ridges sloping down towards the bottom of the picture
 * The crater is on the left side
 * A small local peak (in yellow) can be seen to the right of the crater... etc.
 
@@ -117,7 +117,8 @@ pretty closely from memory later.
 
 Let's continue with another, related, exercise.
 
-Change the z-value (3rd column) of just 5 (out of over 5,000) points to some arbitrary value taken from somewhere else in the data-set.
+Let's switch some pixels:
+change the z-value (3rd column) of just 5 (out of over 5,000) points to some value taken from somewhere else in the data-set.
 
 It would be extremely hard to notice this small change by looking at the numbers directly.
 
