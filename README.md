@@ -115,12 +115,13 @@ pretty closely from memory later.
 
 #### Now, what if someone messed with our data?
 
-Let's continue with another, related, exercise.
+We continue with another, related, exercise.
 
-Let's switch some pixels:
-change the z-value (3rd column) of just 5 (out of over 5,000) points to some value taken from somewhere else in the data-set.
+Let's change the z-value (3rd column) of just 5 (out of over 5,000)
+points to a value taken from somewhere else in the data-set.
 
-It would be extremely hard to notice this small change by looking at the numbers directly.
+It would be extremely hard to notice this small change by looking
+at the raw numbers.
 
 But in the picture, the small messing-up with the data *stands-out immediately*.
 
@@ -191,7 +192,7 @@ The picture allows us, not just to *grasp the whole data set in the blink of an 
 
 The importance of visualization in making sense of data cannot be overstated.
 
-Billions of years of evolution have made us very good in making sense of pictures.  In contrast, we have spent just a few thousands years (human history), making sense of writing, numbers, and data. 
+Billions of years of evolution have made us very good in making sense of pictures.  In contrast, we have spent just a few thousands years (human history), making sense of writing, numbers, and data.
 
 Complex models have their place, but 'debugging' them, and fully understanding them is another matter. Simple, direct rendering and visualization of data is often the best data insight/debugger known to me. I hope that this example has convinced you of this fact too.
 
